@@ -1,0 +1,15 @@
+# /*
+#  * @Author: ranjun
+#  * @Date: 2020-09-25 14:56:52
+#  * @Last Modified by:   ranjun
+#  * @Last Modified time: 2020-09-25 14:56:52
+#  */
+
+**/*.md
+**/*.svg
+**/*.ejs
+**/*.html
+package.json
+.umi
+.umi-production
+.umi-test
