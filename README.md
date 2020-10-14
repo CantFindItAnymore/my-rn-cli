@@ -5,7 +5,7 @@
  * @Last Modified time: 2020-10-12 09:47:50
  */
 
-# 银保通app端 via RN
+# app via RN
 
 ## 运行
 
